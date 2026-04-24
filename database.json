@@ -4,5 +4,11 @@
     "2222222222222222",
     "3333333333333333"
   ],
-  "riwayat_penggunaan": {}
+  "riwayat_penggunaan": {
+    "1111111111111111": {
+      "total": 0,
+      "lastReset": 2026,
+      "history": []
+    }
+  }
 }
